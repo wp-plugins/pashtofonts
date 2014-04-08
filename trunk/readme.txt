@@ -1,10 +1,10 @@
 === PashtoFonts ===
-Contributors: Moxet Khan
+Contributors: Moxet
 Donate link:https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2EGJVFLZGTAJC
-Tags: Pashto, Urdu, Unicode, Web Fonts
+Tags: Pashto, Urdu, Unicode, Web Fonts, RTL
 Requires at least: 3.0.1
 Tested up to: 3.8.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -18,7 +18,7 @@ Unfortunately Google font lack of Unicode fonts such as for Arabic, Persian, Urd
 
 You can manage them later according to your choice. To provide such features for Urdu bloggers we have Nafees Urdu font integrated in this plugin. The plugin uses the external CSS library from PashtoFont website. 
 
-The project is developed by Pukhtoogle.com as part of Pashto localization.
+The project is developed by <a href="pukhtoogle.com">Pukhtoogle.com</a> as part of Pashto localization.
 
 == Installation ==
 
@@ -59,10 +59,16 @@ Yes, to facilitate Urdu bloggers we have an extra font Nafees. If you want to di
 
 == Changelog ==
 
+= 1.0.1 =
+* Shortcut buttons for shortcodes has been added to post editor.
+
 = 1.0 =
-* RTL switcher has been added to support themes.
+* Initial Release.
 
 == Upgrade Notice ==
 
+= 1.0.1 =
+Its easier to insert shortcodes from editor rather than writing.
+
 = 1.0 =
-It is more easier to switch your template direction via plugin rather than tunning your CSS.
+Initial Release
