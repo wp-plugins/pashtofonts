@@ -180,7 +180,7 @@ function pashtoFormattingStartAuto($text_value = array()){
 			$text_value['text_align'] = 'right';
 		}
 		if($text_value['text_color']){
-			$text_color = ' color: '.$text_value['text_color'].';';
+			$text_color = "color: ".$text_value['text_color'].";";
 		}
 		echo '<div style="font-family: '.PashtoFonts_FONT.'; font-size: '.$text_value['font_size'].'px; line-height: '.$text_value['line_height'].'px; text-align: '.$text_value['text_align'].'; direction: rtl;'.$text_color.'">' ;
 	}
