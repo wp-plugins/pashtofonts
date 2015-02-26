@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /*
 Plugin Name: PashtoFonts
 Description: This plugin allows you to show custom Pashto Unicode text in your blog including Posts, exerts & comments. Decorated with 42 beautiful and decent Pashto fonts which automatically detects Pashto text and set the align and size of the post accordingly. 
@@ -8,7 +8,7 @@ Author URI: http://moxetkhan.com/
 Plugin URI: http://pashtofonts.com/
 */
 
-//plugin activation
+//plugin activation 
 function PashtoFontsActivate() {
 	update_option("theme_detect", "eng_theme");
 	update_option("h1_info", "PokhtoRegular");	
