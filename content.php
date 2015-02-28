@@ -25,6 +25,8 @@
 <option value="AGhazniRegular"<?php if($h1_info=="AGhazniRegular"){ echo 'selected'; } ?>>Ghazni - غزني</option>
 <option value="HotakiRegular"<?php if($h1_info=="HotakiRegular"){ echo 'selected'; } ?>>Hotaki - هوتکي</option>
 <option value="PashtoIbrahimkhilRegular"<?php if($h1_info=="PashtoIbrahimkhilRegular"){ echo 'selected'; } ?>>Ibrahimkhil - ابراهيم خيل</option>
+<option value="Jameel"<?php if($font_info_PashtoFonts=="Jameel"){ echo 'selected'; } ?>>Jameel - جمیل</option>
+<option value="JameelUnicodeRegular"<?php if($font_info_PashtoFonts=="JameelUnicodeRegular"){ echo 'selected'; } ?>>Jameel Unicode - جمیل یونیکوڈ</option>
 <option value="AKabulRegular"<?php if($h1_info=="AKabulRegular"){ echo 'selected'; } ?>>Kabul - کابل</option>
 <option value="KaounRegular"<?php if($h1_info=="KaounRegular"){ echo 'selected'; } ?>>Kaoun - کاون</option>
 <option value="AKapisaRegular"<?php if($h1_info=="AKapisaRegular"){ echo 'selected'; } ?>>Kapisa - کپيسه</option>
@@ -72,6 +74,8 @@
 <option value="AGhazniRegular"<?php if($font_info_PashtoFonts=="AGhazniRegular"){ echo 'selected'; } ?>>Ghazni - غزني</option>
 <option value="HotakiRegular"<?php if($font_info_PashtoFonts=="HotakiRegular"){ echo 'selected'; } ?>>Hotaki - هوتکي</option>
 <option value="PashtoIbrahimkhilRegular"<?php if($font_info_PashtoFonts=="PashtoIbrahimkhilRegular"){ echo 'selected'; } ?>>Ibrahimkhil - ابراهيم خيل</option>
+<option value="Jameel"<?php if($font_info_PashtoFonts=="Jameel"){ echo 'selected'; } ?>>Jameel - جمیل</option>
+<option value="JameelUnicodeRegular"<?php if($font_info_PashtoFonts=="JameelUnicodeRegular"){ echo 'selected'; } ?>>Jameel Unicode - جمیل یونیکوڈ</option>
 <option value="AKabulRegular"<?php if($font_info_PashtoFonts=="AKabulRegular"){ echo 'selected'; } ?>>Kabul - کابل</option>
 <option value="KaounRegular"<?php if($font_info_PashtoFonts=="KaounRegular"){ echo 'selected'; } ?>>Kaoun - کاون</option>
 <option value="AKapisaRegular"<?php if($font_info_PashtoFonts=="AKapisaRegular"){ echo 'selected'; } ?>>Kapisa - کپيسه</option>
