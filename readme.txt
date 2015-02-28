@@ -3,8 +3,8 @@ Contributors: Moxet
 Donate link:https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2EGJVFLZGTAJC
 Tags: Pashto, Urdu, Unicode, Web Fonts, RTL
 Requires at least: 3.0.1
-Tested up to: 3.8.1
-Stable tag: 1.0
+Tested up to: 4.1.1
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -46,7 +46,7 @@ Well there is a simple concept of shortcodes in plugin. If you want to use Pasht
 
 = Can i use PashtoFonts for Urdu? =
 
-Yes, to facilitate Urdu bloggers we have an extra font Nafees. If you want to display your blog in Urdu just switch both option for title & content to Nafees.
+Yes, to facilitate Urdu bloggers we have an extra font Jameel & Nafees. If you want to display your blog in Urdu just switch both option for title & content to Jameel or Nafees.
 
 == Screenshots ==
 
@@ -59,10 +59,16 @@ Yes, to facilitate Urdu bloggers we have an extra font Nafees. If you want to di
 
 == Changelog ==
 
+= 1.0.1 =
+* UTF-8 character issue resolved
+* Jameel Noori Nastaleeq/Unicode Added
+
 = 1.0 =
 * Initial Release.
 
 == Upgrade Notice ==
+= 1.0.1 = 
+* New fonts added for Urdu support
 
 = 1.0 =
 Initial Release
